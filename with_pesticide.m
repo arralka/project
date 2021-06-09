@@ -1,3 +1,5 @@
+%% Liam Wigney Jun 2021
+
 clear
 syms theta xi phi sigm
 j1 = [1-theta 0; 0 -xi-phi]
